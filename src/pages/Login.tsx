@@ -83,7 +83,7 @@ const Login: React.FC = () => {
             </Link>
           </div>
           <div className="mt-4 text-xs text-center text-gray-500">
-            <p><strong>Admin Access:</strong> Username: admin, Password: admin12.3</p>
+            {/* <p><strong>Admin Access:</strong> Username: admin, Password: admin12.3</p> */}
           </div>
         </CardFooter>
       </Card>
